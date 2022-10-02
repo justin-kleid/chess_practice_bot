@@ -1,4 +1,4 @@
-# chess_practice_bot
+# Chess Practice Bot
 A python implementation for a playable chess GUI - the code uses the pygame and python-chess libraries.
 
 The chess positions are represented by FEN: a notation describing piece layout, castling and turn status, etc. If a piece is dragged to a legal square, the FEN updates with the visual chess board display. All of the information required to generate legal moves and enforce the proper functions of a chess match are produced from the FEN information.
@@ -7,3 +7,9 @@ When the script is activated, a starting menu prompts the user to choose the set
 
 
 ![chess menu](https://thumbs.gfycat.com/RecklessDarlingIcelandgull-max-1mb.gif)
+
+## Downloading the Chess Bot:
+
+1.
+2.
+3.
