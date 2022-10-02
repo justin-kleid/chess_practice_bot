@@ -8,7 +8,7 @@ When the script is activated, a starting menu prompts the user to choose the set
 <iframe src='https://gfycat.com/ifr/RecklessDarlingIcelandgull' frameborder='0' scrolling='no' allowfullscreen width='640' height='721'></iframe>
 
 
-![chess menu](https://gfycat.com/ifr/RecklessDarlingIcelandgull)
+![chess menu](https://gfycat.com/ifr/RecklessDarlingIcelandgull.gif)
 
 
 
