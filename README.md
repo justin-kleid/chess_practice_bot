@@ -12,7 +12,11 @@ When the script is activated, a starting menu prompts the user to choose the set
 
 Enter the following command lines in the terminal.
 ```
-1.
-2.
-3.
+$ git clone https://github.com/justin-kleid/chess_practice_bot.git
+$ cd chess_practice_bot
+$ python3 -m venv chess_env
+$ source chess_env/bin/activate
+$ pip install chess
+$ pip install pygame
+$ python3 chess_main.py
 ```
