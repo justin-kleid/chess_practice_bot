@@ -10,6 +10,9 @@ When the script is activated, a starting menu prompts the user to choose the set
 
 ## Downloading the Chess Bot:
 
+Enter the following command lines in the terminal.
+```
 1.
 2.
 3.
+```
