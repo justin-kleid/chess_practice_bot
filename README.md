@@ -20,3 +20,10 @@ $ pip install chess
 $ pip install pygame
 $ python3 chess_main.py
 ```
+
+
+## Credits:
+
+Piece pngs from: https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent
+Stockfish engine: (see Stockfish folder)
+Baron opening book: https://www.chessprogramming.net/new-version-of-the-baron-v3-43-plus-the-barons-polyglot-opening-book/
