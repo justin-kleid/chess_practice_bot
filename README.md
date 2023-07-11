@@ -14,11 +14,9 @@ Enter the following command lines in the terminal.
 ```
 $ git clone https://github.com/justin-kleid/chess_practice_bot.git
 $ cd chess_practice_bot
-$ python3 -m venv chess_env
-$ source chess_env/bin/activate
-$ pip install chess
-$ pip install pygame
-$ python3 chess_main.py
+$ conda env create -f environment.yml
+$ conda activate chess
+$ python chess_main.py
 ```
 
 
