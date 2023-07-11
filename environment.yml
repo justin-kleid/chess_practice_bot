@@ -1,0 +1,10 @@
+name: chess
+channels:
+  - defaults
+dependencies:
+  - python=3.9  # specify your desired Python version here
+  - pip
+  - pip:
+    - pygame
+    - python-chess
+
